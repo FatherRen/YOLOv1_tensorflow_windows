@@ -11,7 +11,7 @@
       
 ## 2、使用：
     （1）要求：python3.6、tensorflow-gpu——1.8.0、cv2——3.4.2
-    （2）数据集以及预训练模型：我以上传到[百度云](https://pan.baidu.com/s/1-xMmsHbkigPZfl4jQ4JtKw）提取码：hm8n，
+    （2）数据集以及预训练模型：我以上传到[百度云](https://pan.baidu.com/s/1-xMmsHbkigPZfl4jQ4JtKw)提取码：hm8n，
          下载完数据后将数据解压后直接替换掉原文件中的data文件夹即可。
     （3）准备工作完毕：打开cmd，cd到本文件夹。
          1、训练模型：虽然下载下来的数据中有预训练模型，但是还是需要进行进行训练后才能进行测试。这是代码里面默认图设置的时候的原因。
